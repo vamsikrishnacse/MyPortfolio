@@ -19,6 +19,8 @@
     "@fortawesome/free-regular-svg-icons": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
     "jquery": "^3.7.1",
@@ -61,5 +63,10 @@
   },
   "devDependencies": {
     "webpack-cli": "^6.0.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
